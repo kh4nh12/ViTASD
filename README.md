@@ -3,12 +3,12 @@
 Table of Contents
 =================
 
-  * [General Introduction](#who-uses-nodeenv)
+  * [General Introduction](#General)
     * [Data Example](#openstack)
     * [Usage](#pre-commitcom)
     * Citation
   
-## General Introduction
+## General Introduction <a name="General"/>
 ViTASD is a new benchmark dataset for evaluating Vietnamese Targeted Aspect-based Sentiment Analysis models. The ViTASA dataset consists of .... We divide the dataset randomly into training, development and testing sets with a ratio of 7:1:2.
 
 ## Data Example

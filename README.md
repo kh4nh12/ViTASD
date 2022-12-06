@@ -1,6 +1,12 @@
 # ViTASD: A novel dataset and method for Vietnamese Targeted Aspect-based Sentiment Analysis (ViTASA)
 
+Table of Contents
+=================
 
+  * [Who Uses Nodeenv?](#who-uses-nodeenv)
+    * [OpenStack](#openstack)
+    * [pre-commit.com](#pre-commitcom)
+  
 ## General Introduction
 ViTASD is a new benchmark dataset for evaluating Vietnamese Targeted Aspect-based Sentiment Analysis models. The ViTASA dataset consists of .... We divide the dataset randomly into training, development and testing sets with a ratio of 7:1:2.
 

@@ -8,7 +8,7 @@ ViTASD is a new benchmark dataset for evaluating Vietnamese Targeted Aspect-base
 ![example](https://user-images.githubusercontent.com/62872625/205845803-972a5f17-f558-43cb-bfb6-5df5a7279c0b.png)
 
 
-
+## Usage
 
 ## Citation
 Please cite the following paper if you found it useful in your work.

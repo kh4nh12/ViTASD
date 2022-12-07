@@ -22,7 +22,7 @@ Table of Contents
 
 ### 🛠 &nbsp;Keywords & Tech Stack
 
-![Huggingface](https://img.shields.io/badge/Huggingface)&nbsp;
+![Huggingface](https://img.shields.io/badge/%F0%9F%A4%97-Huggingface)&nbsp;
 ![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;

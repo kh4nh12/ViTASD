@@ -22,7 +22,7 @@ Table of Contents
 
 ### 🛠 &nbsp;Keywords & Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=pycharm)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=hugging-face)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;

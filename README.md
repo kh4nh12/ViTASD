@@ -7,38 +7,6 @@ Table of Contents
     * [Data Example](#openstack)
     * [Usage](#Usage)
     * Citation
-  
-## Task description <a name="General"/>
-ViTASD is a new benchmark dataset for evaluating Vietnamese Targeted Aspect-based Sentiment Analysis models. The ViTASA dataset consists of .... We divide the dataset randomly into training, development and testing sets with a ratio of 7:1:2.
-
-## Dataset <hr/>
-![example](https://user-images.githubusercontent.com/62872625/205845803-972a5f17-f558-43cb-bfb6-5df5a7279c0b.png)
-
-## Usage <a name="Usage"/>
-
-## Evaluation
-
-## References 
-
-## Citation
-Please cite the following paper if you found it useful in your work.
-```
-@inproceedings{tran-etal-2023-vitasd-vietnamese,
-    title = "ViTASA: Vietnamese Targeted Aspect-based Sentiment Analysis in Multiple Data Domains",
-    author = "",
-    booktitle = "",
-    month = "",
-    year = "",
-    address = "",
-    publisher = "",
-    url = "",
-    pages = "",
-}
-```
-
-## Contact info
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -76,6 +44,34 @@ Please cite the following paper if you found it useful in your work.
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
+## Task description <a name="General"/>
+ViTASD is a new benchmark dataset for evaluating Vietnamese Targeted Aspect-based Sentiment Analysis models. The ViTASA dataset consists of .... We divide the dataset randomly into training, development and testing sets with a ratio of 7:1:2.
+
+## Dataset <hr/>
+![example](https://user-images.githubusercontent.com/62872625/205845803-972a5f17-f558-43cb-bfb6-5df5a7279c0b.png)
+
+## Usage <a name="Usage"/>
+
+## Evaluation
+
+## References 
+
+## Citation
+Please cite the following paper if you found it useful in your work.
+```
+@inproceedings{tran-etal-2023-vitasd-vietnamese,
+    title = "ViTASA: Vietnamese Targeted Aspect-based Sentiment Analysis in Multiple Data Domains",
+    author = "",
+    booktitle = "",
+    month = "",
+    year = "",
+    address = "",
+    publisher = "",
+    url = "",
+    pages = "",
+}
+```
 
 ### ⚙️ &nbsp;GitHub Analytics
 

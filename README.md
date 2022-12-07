@@ -92,9 +92,9 @@ Please cite the following paper if you found it useful in your work.
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/kh4nh12/"><img src="https://img.shields.io/badge/-Khanh%20Quoc%20Tran-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:khanhtq@uit.edu.vn"><img src="https://img.shields.io/badge/-khanhtq@uit.edu.vn-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/khanhos0412/"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.facebook.com/khanhos0412/"><img src="https://img.shields.io/badge/-@Khanh Quoc Tran-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<!-- <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
+<!-- <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
 </p>
 
 -----

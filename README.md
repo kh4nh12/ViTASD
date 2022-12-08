@@ -30,7 +30,7 @@ Table of Contents
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Low-resource NLP](https://img.shields.io/badge/-Low-resource%20NLP-05122A?style=flat&logo=vietnam)&nbsp;
+![Low-resource NLP](https://img.shields.io/badge/-Low-resource%20NLP-05122A?style=flat&logo=vietnamese)&nbsp;
 
 ## Task description <a name="General"/>
 ViTASD is a new benchmark dataset for evaluating Vietnamese Targeted Aspect-based Sentiment Analysis models. The ViTASA dataset consists of .... We divide the dataset randomly into training, development and testing sets with a ratio of 7:1:2.

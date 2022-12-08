@@ -23,11 +23,13 @@ Table of Contents
 ### 🛠 &nbsp;Keywords & Tech Stack
 
 ![Vietnamese TASA](https://img.shields.io/badge/%20-Vietnamese%20TASA-05122A?logo=TASA)&nbsp;
+![Low-resource NLP](https://img.shields.io/badge/-Lowresource%20NLP-05122A?style=flat&logo=Vietnam)&nbsp;
+![Text minning](https://img.shields.io/badge/-Lowresource%20NLP-05122A?style=flat&logo=Vietnam)&nbsp;
 ![Huggingface](https://img.shields.io/badge/🤗-Huggingface-05122A)&nbsp;
 ![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Low-resource NLP](https://img.shields.io/badge/-Lowresource%20NLP-05122A?style=flat&logo=Vietnam)&nbsp;
+
 
 ## Task description <a name="General"/>
 ViTASD is a new benchmark dataset for evaluating Vietnamese Targeted Aspect-based Sentiment Analysis models. The ViTASA dataset consists of .... We divide the dataset randomly into training, development and testing sets with a ratio of 7:1:2.

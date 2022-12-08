@@ -18,7 +18,8 @@
 
 ![Vietnamese TASA](https://img.shields.io/badge/%20-Vietnamese%20TASA-05122A?logo=TASA)&nbsp;
 ![Low-resource NLP](https://img.shields.io/badge/-Lowresource%20NLP-05122A?style=flat&logo=Vietnam)&nbsp;
-![Text minning](https://img.shields.io/badge/-Lowresource%20NLP-05122A?style=flat&logo=Vietnam)&nbsp;
+![Text minning](https://img.shields.io/badge/-Lowresource%20NLP-05122A?style=flat&logo=Vietnam)
+
 ![Huggingface](https://img.shields.io/badge/🤗-Huggingface-05122A)&nbsp;
 ![Pytorch](https://img.shields.io/badge/-Pytorch-05122A?style=flat&logo=pytorch)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;

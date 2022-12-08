@@ -17,7 +17,8 @@
 ### 🛠 &nbsp;Keywords & Tech Stack
 
 ![Vietnamese TASA](https://img.shields.io/badge/%20-Vietnamese%20TASA-05122A?logo=TASA)&nbsp;
-![Low-resource NLP](https://img.shields.io/badge/-Lowresource%20NLP-05122A?style=flat&logo=https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png)&nbsp;
+![Low-resource NLP](https://img.shields.io/badge/-Lowresource%20NLP-05122A?style=flat&logo=https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png![image](https://user-images.githubusercontent.com/62872625/206336153-971a9c9d-34fb-42bb-ba4d-a64f2e5cd06c.png)
+)&nbsp;
 ![Text minning](https://img.shields.io/badge/-Text%20minning-05122A?style=flat&logo=Vietnam)
 
 ![Huggingface](https://img.shields.io/badge/🤗-Huggingface-05122A)&nbsp;

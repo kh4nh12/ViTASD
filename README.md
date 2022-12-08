@@ -10,7 +10,7 @@
 
 ### 👨🏻‍💻 &nbsp;Task description <a name="General"/>
 
-💡 ViTASD is a new benchmark dataset for evaluating Vietnamese Targeted Aspect-based Sentiment Analysis models. The ViTASA dataset consists of .... We divide the dataset randomly into training, development and testing sets with a ratio of 7:1:2.
+💡 ViTASA is a new benchmark dataset for evaluating Vietnamese Targeted Aspect-based Sentiment Analysis models. The ViTASA dataset consists of .... We divide the dataset randomly into training, development and testing sets with a ratio of 7:1:2.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300" height="200"/>
 

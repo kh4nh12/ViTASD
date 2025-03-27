@@ -1,4 +1,4 @@
-# ViTASD: A novel dataset and method for Vietnamese Targeted Aspect-based Sentiment Analysis (ViTASA)
+# ViTASA: New Benchmark and Methods for Vietnamese Targeted Aspect Sentiment Analysis for Multiple Textual Domains
 
 <!-- Table of Contents
 =================
